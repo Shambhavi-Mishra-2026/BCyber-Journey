@@ -1,9 +1,9 @@
-# Lecture- 1
+# Lab- 1/2
 
 # 1- echo
 repeats whatevever is comanded 
 General form - echo "whatever you want to say"
-:- spaces matter example spaces between the double quotes
+:- spaces matter for example notice the space between the double quotes and echo 
 :- linux is case sensitive
 :- the double quotes tell linux precisely what string of text to repeat
 
